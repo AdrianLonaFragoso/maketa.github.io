@@ -1,2 +1,5 @@
-# maketastudio.github.io
-Sitio de prueba Maketa
+# Documentation
+
+Command Sass export
+
+`sass --watch scss/styles.scss css/styles.css`
